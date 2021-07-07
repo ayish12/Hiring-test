@@ -1,0 +1,164 @@
+[
+	{
+		"_id":"1",
+        "name": "PHILODENDRON NARROW “JUNGLE BOOGIE”",
+		"price": "$16",
+        "description":"Like all philodendrons, you have to be careful to not overwater it, “Only give it a drink when the soil is completely dry. When it comes to light, it likes it bright or medium and indirect. ",
+        "thumbnail":"https://images.pexels.com/photos/3772631/pexels-photo-3772631.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "discount":"5%"
+	},
+	{
+        "_id":"2",
+		"name": "BURGUNDY RUBBER TREE",
+		"price": "$20",
+        "description":"It can grow up to 25 feet indoors. When it comes to light, it does well when it’s bright and indirect. Keep the soil moist during the growing season, which is summer. In the winter, the soil needs less moisture.",
+        "thumbnail":"https://images.pexels.com/photos/4823081/pexels-photo-4823081.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "discount":"0%"
+
+
+
+	},
+	{
+        "_id":"3",
+		"name": "PILEA PEPEROMIOIDES",
+		"price": "$27",
+        "description":"This is a widely loved plant with many endearing nicknames like UFO plant, pancake plant, and Chinese money plant, “Its love of humidity makes it a great way to add color to a bathroom. The sprouted leafy discs could also work in any space with bright indirect light. Let the soil dry out between waterings to avoid root rot. Their leaves will droop a bit when they are thirsty.",
+        "thumbnail":"https://images.pexels.com/photos/7448744/pexels-photo-7448744.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "discount":"5%"
+
+
+
+	},
+	{
+        "_id":"4",
+		"name": "JADE",
+		"price": "$18",
+        "description":" This is one of my favorite succulents to grow indoors. Unlike other plants, it can survive a day of direct sunlight, “Place it in a pot with a drainage hole and water every two weeks only when the top two inches of soil are dry. To keep it looking fresh, just give dying or dry branches a snip.",
+        "thumbnail":"https://images.pexels.com/photos/4299171/pexels-photo-4299171.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "discount":"10%"
+
+
+
+	},
+	{
+        "_id":"5",
+		"name": "VARIEGATED ARROWHEAD VINE",
+		"price": "$19",
+        "description":" Don’t ever let the soil completely dry out. It thrives in humidity, so a weekly misting session would be beneficial. Like most houseplants, it likes bright indirect light but can also tolerate low light.",
+        "thumbnail":"https://images.pexels.com/photos/4607446/pexels-photo-4607446.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "discount":"0%"
+
+
+
+	},
+	{
+        "_id":"6",
+		"name": "HOYA CARNOSA VARIEGATA",
+		"price": "$20",
+        "description":"This waxy-leafed beauty will do best in an area of your home that gets bright indirect light, “Direct sunlight will kill the plant over time. Only water it when the soil is dry, but do spray it with mist weekly because their leaves love humidity.",
+        "thumbnail":"https://images.pexels.com/photos/8218657/pexels-photo-8218657.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "discount":"15%"
+
+
+
+	},
+	{
+        "_id":"7",
+		"name": "LIPSTICK PLANT",
+		"price": "$23",
+        "description":"Be careful not to overexpose it to direct sun, because this can burn the leaves and dry the plant out. Keep the soil moist, not wet. For balanced growth, rotate it at least once a month.",
+        "thumbnail":"https://images.pexels.com/photos/4484185/pexels-photo-4484185.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "discount":"5%"
+
+
+
+	},
+	{
+        "_id":"8",
+		"name": "HOYA",
+		"price": "$16",
+        "description":"Also known as the Crimson Prince, like other hoyas, this trailing beauty is perfect for displaying in a window that gets bright but indirect light",
+        "thumbnail":"https://images.pexels.com/photos/3101767/pexels-photo-3101767.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "discount":"25%"
+
+
+
+	},
+	{
+        "_id":"9",
+		"name": "ARALIA FABIAN",
+		"price": "$39",
+        "description":"It can live in a nice spot that has bright indirect light. If you don’t have that, a mix of dappled light throughout the day will also work well.",
+        "thumbnail":"https://images.pexels.com/photos/5720724/pexels-photo-5720724.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "discount":"10%"
+
+
+
+	},
+	{
+        "_id":"10",
+		"name": "ZZ PLANT",
+		"price": "$21",
+        "description":"You’ll be able to catch plenty of Zs if you invest in a ZZ plant—also known as the Zamioculcas zamiifolia—as it is one of the lowest-maintenance options on the market. It only needs to be watered three times a month, doesn’t require a lot of light, and will not attract bugs or other pests.",
+        "thumbnail":"https://images.pexels.com/photos/5144485/pexels-photo-5144485.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "discount":"20%"
+
+
+
+	},
+	{
+        "_id":"11",
+		"name": "SPIDER PLANT",
+		"price": "$32",
+        "description":"Even if you skip town for the weekend and forget to assign a friend plant-sitting duties, the spider plant will not punish you for neglecting it. The self-propagating, air-cleaning, petite, and pretty spider plant will grow in low to bright indirect light, making it a great option for apartment dwellers or first-time plant parents.",
+        "thumbnail":"https://images.pexels.com/photos/3012430/pexels-photo-3012430.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "discount":"0%"
+
+
+
+	},
+	{
+        "_id":"12",
+		"name": "MONSTERA DELICIOSA",
+		"price": "$23",
+        "description":"They can tolerate many levels of sunlight and even grow under fluorescent lights. While you should water your Monstera regularly, it can survive a missed watering every now and then.",
+        "thumbnail":"https://images.pexels.com/photos/3846424/pexels-photo-3846424.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "discount":"25%"
+
+
+
+	},
+	{
+        "_id":"13",
+		"name": "RED PRAYER PLANT",
+		"price": "$34",
+        "description":"Striking red veins against soft, dark green leaves make the Red Prayer plant an aesthete’s dream, and its low upkeep makes it perfect for apartment dwellers. It should be kept in low to bright indirect sunlight, watered regularly, and misted once a week, but it can tolerate low light every now and then.",
+        "thumbnail":"https://images.pexels.com/photos/993626/pexels-photo-993626.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "discount":"10%"
+
+
+
+	},
+	{
+        "_id":"14",
+		"name": "ZEBRA PLANT",
+		"price": "$25",
+        "description":"The Haworthia, or zebra plant, is one of the easiest succulents to grow. Maxing out at only eight inches tall, they require low light and minimal watering. Haworthia can be placed in both open spaces like a living room or small, contained spaces like a bathroom.",
+        "thumbnail":"https://images.unsplash.com/photo-1523441263-830cac2fe90b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHBsYW50fGVufDB8MnwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "discount":"15%"
+
+
+
+	},
+	{
+        "_id":"15",
+		"name": "BIRD’S NEST FERN",
+		"price": "$26",
+        "description":"Perfect for bathrooms or confined spaces, the bird’s nest fern can be hung or potted, making it a versatile option that can move around your apartment at ease. The large leaves and glossy finish are similar to a standard fern, and it can thrive in a low-light space.",
+        "thumbnail":" https://images.unsplash.com/photo-1617173944883-6ffbd35d584d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGxhbnR8ZW58MHwyfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "discount":"35%"
+
+
+
+	}
+]
